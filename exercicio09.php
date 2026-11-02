@@ -7,6 +7,9 @@ Turma: ADS2B
 Componentes:
     260029592 - Giovanni Palmonari de Ramos
     260088322 - Lucas Tavares Ortega
+    260025342 - Ricardo Henrique
+    260146462 - Felipe cruz
+              - Etinosa
 Data: 01 de Novembro de 2026
 Descritivo: Exercício de prática de desenvolvimento com PHP.
 ******************************************************************************/
